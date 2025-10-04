@@ -1,4 +1,5 @@
-// 12S25024 - VEYBE YOULANDA KM SIMANJUNTAK
+//12S25024 - VEYBE YOULANDA K M SIMANJUNTAK
+
 import java.util.*;
 import java.lang.Math;
 
