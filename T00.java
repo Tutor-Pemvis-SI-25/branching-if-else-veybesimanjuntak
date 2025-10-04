@@ -1,9 +1,8 @@
-//12S25024 - VEYBE YOULANDA K M SIMANJUNTAK
-
+// 12S25024 - VEYBE YOULANDA K M SIMANJUNTAK
 import java.util.*;
 import java.lang.Math;
 
-public class JavaApplication {
+public class T00 {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
